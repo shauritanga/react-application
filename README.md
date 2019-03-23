@@ -1,2 +1,2 @@
-This project was bootstrapped with [Instructors Team](https://instructeur.herokuapp.com/)
+ [Share knowledge with us here](https://instructeur.herokuapp.com/)
 
